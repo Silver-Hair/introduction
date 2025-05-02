@@ -1,0 +1,40 @@
+{
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Sự kiện Summer Fest 2025",
+      "content": "Tham gia sự kiện mùa hè với nhiều phần thưởng độc đáo! Bắt đầu từ 15/6/2025.",
+      "type": "event",
+      "startDate": "2024-01-01",
+      "endDate": "2026-12-31",
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "Cập nhật máy chủ",
+      "content": "Chúng tôi sẽ bảo trì máy chủ vào ngày 05/05/2025 từ 22:00 đến 24:00. Xin lỗi vì sự bất tiện này.",
+      "type": "maintenance",
+      "startDate": "2024-01-01",
+      "endDate": "2026-12-31",
+      "active": true
+    },
+    {
+      "id": 3,
+      "title": "Hệ thống giao dịch mới",
+      "content": "Chúng tôi đã ra mắt hệ thống giao dịch mới với nhiều tính năng hấp dẫn. Kiểm tra ngay hôm nay!",
+      "type": "update",
+      "startDate": "2024-01-01",
+      "endDate": "2026-12-31",
+      "active": true
+    },
+    {
+      "id": 4,
+      "title": "Cảnh báo an ninh",
+      "content": "Đừng chia sẻ mật khẩu tài khoản của bạn với người khác. Chúng tôi không bao giờ yêu cầu thông tin cá nhân!",
+      "type": "warning",
+      "startDate": "2024-01-01",
+      "endDate": "2026-12-31",
+      "active": true
+    }
+  ]
+}
